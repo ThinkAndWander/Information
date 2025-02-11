@@ -1,4 +1,2 @@
 ### See the Wiki
-https://github.com/ThinkAndWander/Information/wiki
-
-Prior news | Protests | Personal security and safety
+[Main](https://github.com/ThinkAndWander/Information/wiki) | [News](https://github.com/ThinkAndWander/Information/wiki/News-Summary) | [Protesting](https://github.com/ThinkAndWander/Information/wiki/Confrontation-and-Organizing) | [Security](https://github.com/ThinkAndWander/Information/wiki/Security)
